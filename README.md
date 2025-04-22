@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
   <img src="https://img.icons8.com/color/30/microsoft-excel-2019.png" alt="Excel" />
-  <img alt="GAMS" />
+  <img src="https://www.gams.com/img/gams_logo.svg" height="30" alt="GAMS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
@@ -55,8 +55,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/agorzalczynski)  
 - 📬 Email: artur.gorzalczynski@gmail.com
   
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gorzal91&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
